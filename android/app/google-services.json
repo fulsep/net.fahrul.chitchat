@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32133645723",
+    "firebase_url": "https://chitchat-da2d8.firebaseio.com",
+    "project_id": "chitchat-da2d8",
+    "storage_bucket": "chitchat-da2d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32133645723:android:bf0d3aa64ee03bd2fd8d3e",
+        "android_client_info": {
+          "package_name": "net.fahrul.chitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32133645723-murm9o4se8r79okvgd3rlqdlpp48oe0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgDZhOyNn1qkWcIPkEgB3AplGgw3McfZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32133645723-murm9o4se8r79okvgd3rlqdlpp48oe0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
